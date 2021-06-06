@@ -53,7 +53,7 @@
 * context
 ![context](/screenshots/slow/context.jpeg)
 * gtm.js?id=GTM-5BWRBVT
-![gtm.js?id=GTM-5BWRBVT](/screenshots/slow/gtm.js?id=GTM-5BWRBVT.jpeg)
+![gtm.js?id=GTM-5BWRBVT](/screenshots/slow/gtm.jpeg)
 * adsbygoogle
 ![adsbygoogle](/screenshots/slow/adsbygoogle.jpeg)
 * tag
