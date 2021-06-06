@@ -7,15 +7,15 @@
 
 1.	дублирование ресурсов
 * sodar?sv=200&tid=gda&tv=r20210601&st=env
-![sodar?sv=200&tid=gda&tv=r20210601&st=env](/screenshots/duplicate/sodar?sv=200&tid=gda&tv=r20210601&st=env.jpeg)
+![sodar?sv=200&tid=gda&tv=r20210601&st=env](/screenshots/duplicate/sodar.jpeg)
 * show_ads_impl_fy2019.js
 ![show_ads_impl_fy2019.js](/screenshots/duplicate/show_ads_impl_fy2019.jpeg)
 * osd.js
 ![osd.js](/screenshots/duplicate/osd.jpeg)
 * integrator.js?domain=lifehacker.ru
-![integrator.js?domain=lifehacker.ru](/screenshots/duplicate/integrator.js?domain=lifehacker.ru.jpeg)
+![integrator.js?domain=lifehacker.ru](/screenshots/duplicate/integrator.jpeg)
 * cookie.js?domain=lifehacker.ru
-![cookie.js?domain=lifehacker.ru](/screenshots/duplicate/cookie.js?domain=lifehacker.ru.jpeg)
+![cookie.js?domain=lifehacker.ru](/screenshots/duplicate/cookie.jpeg)
 * adsbygoogle.js
 ![adsbygoogle.js](/screenshots/duplicate/adsbygoogle.jpeg)
 * adfox-adx-stub.js
@@ -35,17 +35,17 @@
 * hbid_yandex
 ![hbid_yandex](/screenshots/excess/hbid_yandex.jpeg)
 * adfox-adx-stub.html
-![adfox-adx-stub.html](/screenshots/excess/adfox-adx-stub.html.jpeg)
+![adfox-adx-stub.html](/screenshots/excess/adfox-adx-stub.jpeg)
 * pixel.gif
 ![pixel.gif](/screenshots/excess/pixel.jpeg)
 * event
 ![event](/screenshots/excess/event.jpeg)
 * integrator.js?domain=lifehacker.ru
-![integrator.js?domain=lifehacker.ru](/screenshots/excess/integrator.js?domain=lifehacker.ru.jpeg)
+![integrator.js?domain=lifehacker.ru](/screenshots/excess/integrator.jpeg)
 * cookie.js?domain=lifehacker.ru
-![cookie.js?domain=lifehacker.ru](/screenshots/excess/cookie.js?domain=lifehacker.ru.jpeg)
+![cookie.js?domain=lifehacker.ru](/screenshots/excess/cookie.jpeg)
 * event
-![event](/screenshots/excess/event2.jpeg)
+![event](/screenshots/excess/event-2.jpeg)
 
 3.	медленно загружающиеся ресурсы
 * ab5bba4
